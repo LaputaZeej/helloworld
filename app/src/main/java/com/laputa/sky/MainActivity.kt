@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun hello() {
+        // 这段说明 master新增 01
         startActivity(Intent(this, HelloActivity::class.java))
     }
 }
