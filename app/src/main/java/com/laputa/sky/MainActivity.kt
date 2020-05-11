@@ -34,5 +34,9 @@ class MainActivity : AppCompatActivity() {
 
     fun feature02(){
         // 开发新功能02
+
+        // 特殊版本，此功能在特殊版本里有额外的操作,正常版本则不会有！！！
     }
+
+
 }
