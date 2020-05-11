@@ -17,4 +17,8 @@ class MainActivity : AppCompatActivity() {
     fun hello() {
         startActivity(Intent(this, MainActivity::class.java))
     }
+
+    fun feature02(){
+        // 开发新功能02
+    }
 }
