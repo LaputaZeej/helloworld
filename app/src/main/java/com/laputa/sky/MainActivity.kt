@@ -15,6 +15,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun hello() {
-        startActivity(Intent(this, HelloActivity::class.java))
+        startActivity(Intent(this, MainActivity::class.java))
     }
 }
