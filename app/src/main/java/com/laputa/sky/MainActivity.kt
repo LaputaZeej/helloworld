@@ -30,6 +30,8 @@ class MainActivity : AppCompatActivity() {
 
     fun feature01() {
         // feature-01
+
+        // 测试公共的代码，是否能同步到product-laputa！！！！
     }
 
     fun feature02(state: Int) {
