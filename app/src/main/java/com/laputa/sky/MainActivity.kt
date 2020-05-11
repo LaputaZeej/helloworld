@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // 这段说明 代表tag：v1.0.0标签下的一次bug修复
+        // 这段说明 代表tag：v1.0.0标签下的一次bug修复 测试冲突02
         // 这段说明 代表tag：v1.0.0标签下的一次bug修复 02
     }
 }
