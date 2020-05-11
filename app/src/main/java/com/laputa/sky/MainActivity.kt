@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // 这段说明 代表tag：v1.0.0标签下的一次bug修复
+        // 这段说明 代表tag：v1.0.0标签下的一次bug修复 02
     }
 }
