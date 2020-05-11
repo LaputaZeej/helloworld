@@ -28,14 +28,17 @@ class MainActivity : AppCompatActivity() {
         startActivity(Intent(this, MainActivity::class.java))
     }
 
-    fun feature01(){
+    fun feature01() {
         // feature-01
     }
 
-    fun feature02(){
+    fun feature02(state: Int) {
         // 开发新功能02
 
         // 特殊版本，此功能在特殊版本里有额外的操作,正常版本则不会有！！！
+
+        // ***************************开发特殊版本业务功能！***************************
+        print(state)
     }
 
 
