@@ -17,4 +17,8 @@ class MainActivity : AppCompatActivity() {
     fun hello() {
         startActivity(Intent(this, MainActivity::class.java))
     }
+
+    fun feature01(){
+        // feature-01
+    }
 }
