@@ -25,6 +25,10 @@ import android.os.Bundle
  *
  * product分支，如果有相同业务功能的，可以从master合并进product？
  *
+ * 以下个人认识原则：（是否合理？）
+ *
+ * 常驻分支不要进行直接修改，开启新的分支修改。切记！！！
+ *
  */
 class MainActivity : AppCompatActivity() {
 
