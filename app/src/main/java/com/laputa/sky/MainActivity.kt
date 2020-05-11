@@ -4,6 +4,15 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
+/**
+ * product ：对于master，这是一个特殊的分支 。即和master是两个线上环境，它的迭代如何进行？
+ *
+ * 对于master - dev
+ * 是否需要product - dev-product来完成特殊的功能（feature）？
+ * 且对于相同功能或者bug，是否同步merge到product - dev-product中？
+ *
+ * 实验开始!
+ */
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
