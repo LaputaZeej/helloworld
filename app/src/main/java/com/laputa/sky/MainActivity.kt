@@ -54,4 +54,8 @@ class MainActivity : AppCompatActivity() {
     fun feature02(){
         // 开发新功能02
     }
+
+    fun feature03(){
+        // 开发新功能03
+    }
 }
