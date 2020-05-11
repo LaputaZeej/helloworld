@@ -68,5 +68,7 @@ class MainActivity : AppCompatActivity() {
         print(state)
     }
 
-
+    fun feature03(){
+        // 开发新功能03
+    }
 }
